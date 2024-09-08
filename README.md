@@ -1,3 +1,3 @@
-# super projet
+# Super projet
 ## Projet collobratif
-### a faire: ajouter in fichier `.gitignore`
+à faire: ajouter in fichier `.gitignore`
